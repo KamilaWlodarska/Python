@@ -1,1 +1,1 @@
-# Small unfinished highschool project in Python with Sqlite3 database
+# Small unfinished highschool project in Python with SQLite3 database
