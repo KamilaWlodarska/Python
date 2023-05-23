@@ -1,4 +1,4 @@
-## Timetable project (unfinished)
+## Timetable project
 ### Python connected with SQLite database
 ### Created during one-month practice
 ### Functionalities:
